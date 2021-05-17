@@ -4,9 +4,7 @@ The main objective of this project is to develop a home automation system using 
 
 In order to achieve this, a Bluetooth module is interfaced to the Arduino board at the receiver end while on the transmitter end, a GUI application on the cell phone sends ON/OFF commands to the receiver where loads are connected. By touching the specified location on the GUI, the loads can be turned ON/OFF remotely through this technology.
 
-Demonstration of the project is in the below youtube video :  
 
-<a href = "https://www.youtube.com/watch?v=1ieyT6df8ec" ><img src="https://github.com/aagarwal1012/Home-Automation/blob/master/Images/youtube_image.png" width="50%" /></a>  
 
 Contents
 --------
@@ -23,9 +21,6 @@ When the user presses on the ‘On’ button displayed on the app for the device
 Similarly, when the user presses on the ‘On’ button displayed on the app for the device 2, the fan is switched on. The fan can be switched off, by pressing the same button again.  
 This project of home automation using Bluetooth and Arduino can be used for controlling any AC or DC devices.  
 Given below is the flow diagram that explains the flow of the project.
-
-<img src = "https://github.com/aagarwal1012/Home-Automation/blob/master/Images/diagram.jpg" width = "75%"/>  
-
 
 <a name="components">Components</a>
 ---------
